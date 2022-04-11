@@ -1,7 +1,7 @@
-# React Timer
+# React Timer 💻
 
 `Resource Repository`
 
 ## Use of
 - `React`
-- `Date`
+- `Date()`
